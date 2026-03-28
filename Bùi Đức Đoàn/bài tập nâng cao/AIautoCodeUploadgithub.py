@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Auto Code & GitHub Pusher — OpenRouter API (Miễn phí)
-======================================================
-Cài thư viện:
-    pip install openai requests python-dotenv
-
-Chạy:
-    python auto_code_github_gui.py
-"""
 
 import os, re, sys, time, base64, json, threading
 from pathlib import Path
